@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{e826b63a-1790-4342-9c38-2b23eb75028d}">
+		<property name="assetPath">
+			<value>SFX/Enemy/Reload/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{09117726-b333-4273-a7b9-8e31834487a1}</destination>
+		</relationship>
+	</object>
+</objects>

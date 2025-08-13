@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1dc03475-7df9-455b-a174-b4a87ea22c48}">
+		<property name="assetPath">
+			<value>Background/G2 Heist1.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>63.712653061224486</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{09117726-b333-4273-a7b9-8e31834487a1}</destination>
+		</relationship>
+	</object>
+</objects>

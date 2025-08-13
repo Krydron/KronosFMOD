@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="Workspace" id="{11e54a8b-ce93-4f33-866a-c77190e31ba4}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../../Unity/Unity Projects/Kronos/Assets/Sound</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{d134d31d-c400-4539-8218-486d3a7b3fed}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{26d19059-d9d1-40ea-9bb3-57a28c9aa39e}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{1db57bc0-4ee6-48f6-b2b8-f611b4da39f0}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{b9f7f198-fbb9-4ed1-8bc8-7919f89136ca}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{96f2b3a7-5462-4c0e-b626-c6842762dec1}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{aa3502dd-d39b-4f8d-b1fe-27f0da40d5e6}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{09117726-b333-4273-a7b9-8e31834487a1}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{78797384-ba43-4e0b-8c5a-4aaf6c3cd2aa}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{dcd07a12-bd1c-45a8-aed9-75d106677c71}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{3708fc46-912e-442a-8863-03e0fb246037}</destination>
+		</relationship>
+	</object>
+</objects>
